@@ -2,6 +2,7 @@ Hello! I'm Alexis, a programmer looking into a variety of projects. Most interes
 Current proficiencies:
 - Javascript, Html, CSS
 - C#
+- C++
 - Godot and GDScript
 - Python
 
